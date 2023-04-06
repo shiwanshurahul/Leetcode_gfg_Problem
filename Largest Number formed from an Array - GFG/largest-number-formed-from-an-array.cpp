@@ -8,7 +8,7 @@ using namespace std;
 //User function template for C++
 class Solution{
 public:
- static bool comp(string a,string b){
+ static bool comp(string& a,string& b){
     return (a+b>b+a);
 }
 	// The main function that returns the arrangement with the largest value as
