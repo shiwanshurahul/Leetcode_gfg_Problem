@@ -28,7 +28,7 @@ gives the largest value.</span></pre>
 You don't need to read input or print anything. Your task is to complete the function&nbsp;<strong>printLargest()</strong>&nbsp;which takes the <strong>array of strings</strong>&nbsp;<strong>arr[]</strong><strong>&nbsp;</strong>as parameter and returns a string&nbsp;denoting&nbsp;the answer.<br>
 <br>
 <strong>Expected Time Complexity:</strong>&nbsp;O(NlogN)<br>
-<strong>Expected Auxiliary Space:</strong>&nbsp;O(1)</span></p>
+<strong>Expected Auxiliary Space:</strong>&nbsp;O(N)</span></p>
 
 <p><br>
 <span style="font-size:18px"><strong>Constraints:</strong><br>
