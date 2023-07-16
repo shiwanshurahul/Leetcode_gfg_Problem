@@ -17,8 +17,10 @@ class Solution
     {
         // Your code here
         // It can be a one liner logic!! Think of it!!
-            int x=1<<k;
-        return n&x;
+        
+        //<< is left shift ;
+        //   1<<k means 1 is left shifted by k bits
+        return ((n &(1<<k))>0);
     }
 };
 
