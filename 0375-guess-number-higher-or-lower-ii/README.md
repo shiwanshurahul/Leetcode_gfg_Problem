@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/guess-number-higher-or-lower-ii">375. Guess Number Higher or Lower II</a></h2><h3>Medium</h3><hr><p>We are playing the Guessing Game. The game will work as follows:</p>
+<h2><a href="https://leetcode.com/problems/guess-number-higher-or-lower-ii/">375. Guess Number Higher or Lower II</a></h2><h3>Medium</h3><hr><p>We are playing the Guessing Game. The game will work as follows:</p>
 
 <ol>
 	<li>I pick a number between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>n</code>.</li>
