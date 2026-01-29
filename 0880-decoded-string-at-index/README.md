@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/decoded-string-at-index">880. Decoded String at Index</a></h2><h3>Medium</h3><hr><p>You are given an encoded string <code>s</code>. To decode the string to a tape, the encoded string is read one character at a time and the following steps are taken:</p>
+<h2><a href="https://leetcode.com/problems/decoded-string-at-index/">880. Decoded String at Index</a></h2><h3>Medium</h3><hr><p>You are given an encoded string <code>s</code>. To decode the string to a tape, the encoded string is read one character at a time and the following steps are taken:</p>
 
 <ul>
 	<li>If the character read is a letter, that letter is written onto the tape.</li>
